@@ -1,0 +1,5 @@
+{
+  "name": "Weather App",
+  "description": "A simple page to display the current temperature of a city, updated via a webhook.",
+  "requestFramePermissions": []
+}
